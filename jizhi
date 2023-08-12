@@ -750,7 +750,7 @@ CGTN,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240021_1/playlist.m3u
 北京新闻,http://beifeng.site:4000/rtp/239.3.1.159:8000
 
 
-福建,#genre#
+福建,#genre
 Decoder=7
 Aspect=4
 东南卫视,http://e2.woc.iiiya.cn:8888/udp/239.61.4.114:1025
